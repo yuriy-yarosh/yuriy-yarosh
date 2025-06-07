@@ -206,3 +206,5 @@ And developing [bitsnap.io](https://bitsnap.io) Business Intelligence and Operat
 [![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323330.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Red Panda](https://img.shields.io/badge/Red%20Panda-%23323330.svg?style=for-the-badge)](https://www.redpanda.com/)
 [![Cloud Events](https://img.shields.io/badge/Cloud%20Events-%23323330.svg?style=for-the-badge)](https://cloudevents.io/)
+---
+[Putin khuylo!](https://en.wikipedia.org/wiki/Putin_khuylo!)
