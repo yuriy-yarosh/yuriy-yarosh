@@ -15,11 +15,6 @@ I practice cross-functional development using [![Rust](https://img.shields.io/ba
 and [![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/),
 where I advocate writing the majority of the codebase in a single language to reduce complexity and ensure predictable [Total Cost of Ownership](https://en.wikipedia.org/wiki/Total_cost_of_ownership).
 
-Currently, I’m conducting R&D in adaptive [Control Systems](https://en.wikipedia.org/wiki/Control_system),
-including Model Predictive Control ([MPC](https://en.wikipedia.org/wiki/Model_predictive_control)),
-Model Predictive Path Integral ([MPPI](https://sites.gatech.edu/acds/mppi/)), [Neural ODE](https://arxiv.org/pdf/1806.07366)'s, [T-KAN](https://github.com/remigenet/TKAN)'s. 
-And developing [bitsnap.io](https://bitsnap.io) Business Intelligence and Operations platform.
-
 ## I Like 
 
  - Technogies
