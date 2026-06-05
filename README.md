@@ -6,7 +6,7 @@ My name is <b>Yurii</b>.
 </div>
 <br/>
 <div align="center">
-<p>I am a <b>Software</b> and <b>Hardware Engineer</b> with over <b>17 years</b> of professional experience</p>
+<p>I am a <b>Software</b> and <b>Hardware Engineer</b> with over <b>18 years</b> of professional experience</p>
 <p>My core expertise is in <b>high-load</b> systems, <b>programming languages</b> and <b>compilers</b> design</p>
 </div>
 <br/>
