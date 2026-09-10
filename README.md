@@ -72,7 +72,7 @@ My name is <b>Yurii</b>.
 ![Verilog](https://img.shields.io/badge/System%20Verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 ![Markup:](https://img.shields.io/badge/Markup:-1A1A1A?style=for-the-badge&logoColor=white)
-[![Typst](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://typst.app/)
+[![Typst](https://img.shields.io/badge/typst-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://typst.app/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 [![MDX](https://img.shields.io/badge/MDX-%23000000.svg?style=for-the-badge&logo=mdx&logoColor=white)](https://mdxjs.com/)
 [![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
